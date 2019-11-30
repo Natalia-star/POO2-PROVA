@@ -1,34 +1,8 @@
-# POO2-PROVA
-Equipe
-
-Nome: Deivid Aparecido Martins dos Santos
-Matrícula: 31604330
-Curso: Sistemas de Informação
-Responsabilidades no projeto:
-
-Nome: Natália Reis
-Matrícula: 91603027
-Curso: Sistemas
-Responsabilidades no projeto:
-
-Nome:
-Matrícula:
-Curso: 
-Responsabilidades no projeto:
-
-Nome:
-Matrícula:
-Curso: 
-Responsabilidades no projeto:
-
-
-
-
 Descrição das Classes
 
-Atributos Classe Aluno
-Matrícula: Código do Aluno
-Nome: Nome do Alno
+Atributos classe Aluno
+Matrícula: Código do aluno
+Nome: Nome do Aluno
 Sobrenome: Sobrenome do Aluno
 
 Métodos
@@ -59,7 +33,7 @@ Sobrenome: Sobrenome do Professor
 
 Métodos
 Def- Definir função
-Init- Método de inicialização (construtor)
+Init- Método de inicialização
 Super- Relação de herança em uma classe
 Self- Indica um parâmetro
 Set- Atribui dados a um determinado objeto
