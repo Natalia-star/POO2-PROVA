@@ -6,9 +6,9 @@ Matrícula: 31604330
 Curso: Sistemas de Informação
 Responsabilidades no projeto:
 
-Nome:
-Matrícula: 
-Curso: 
+Nome: Natália Reis
+Matrícula: 91603027
+Curso: Sistemas
 Responsabilidades no projeto:
 
 Nome:
