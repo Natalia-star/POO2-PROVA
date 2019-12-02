@@ -6,7 +6,7 @@ Matrícula: 31604330
 Curso: Sistemas de Informação
 Responsabilidades no projeto:
 
-Nome: Natália Reis
+Nome: Natália Silva Reis
 Matrícula: 91603027
 Curso: Sistemas
 Responsabilidades no projeto:
@@ -28,7 +28,7 @@ Descrição das Classes
 
 Atributos Classe Aluno
 Matrícula: Código do Aluno
-Nome: Nome do Alno
+Nome: Nome do Aluno
 Sobrenome: Sobrenome do Aluno
 
 Métodos
@@ -37,6 +37,7 @@ Super- Relação de herança em uma classe
 Init- Método de inicialização (construtor)
 Self- Indica o parâmetro
 Return- Retorno da função
+
 
 Classe Pessoa
 Atributos
@@ -50,6 +51,7 @@ Self- Indica um parâmetro
 Set- Atribui dados a um determinado objeto
 Get- Atribui dados a um determinado objeto
 Return- Retorno da função
+
 
 Classe Professor
 Atributos
